@@ -56,6 +56,18 @@ Here is an example of how to embed images from your sub-folder:
 ### Visual 1
 ![graph1](./images/1.png)
 
+### Visual 2
+![graph1](./images/2.png)
+
+### Visual 3
+![graph1](./images/3.png)
+
+### Visual 4
+![graph1](./images/4.png)
+
+### Visual 5
+![graph1](./images/5.png)
+
 ## Conclusions
 
 I recommend that Microsoft Studios collaborate with Christopher Nolan and release a big budget film that is, at minumum, heavy on action & adventure. The film should aim for a May release so that it can benefit from the summer box office boom.
