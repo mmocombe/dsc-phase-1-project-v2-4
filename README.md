@@ -84,21 +84,23 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 
 
 ``````
+├── images
+│   ├── 1.png                           <- image of top grossing genres
+│   ├── 2.png                           <- image of avg gross per month
+│   ├── 3.png                           <- image of budget/profit scatterplot
+│   ├── 4.png                           <- image of director avg gross
+│   └── 5.png                           <- image of imdb popularity
 ├── zippedData
 │   ├── bom.movie_gross.csv.gz          <- .csv file of Box Office Mojo dataset
 │   ├── im.db.zip                       <- .zip file of IMDB data in SQLite
 │   ├── rt.movie_info.tsv.gz            <- .tsv file of movie info from Rottentomatoes
-│   └── rt.reviews.tsv.gz               <- .tsv file of reviews from Rottentomatoes
+│   ├──  rt.reviews.tsv.gz               <- .tsv file of reviews from Rottentomatoes
 │   ├── tmdb.movies.csv.gz              <- .csv file of dataset from The Movie Database
 │   └── tn.movie_budgets.csv.gz         <- .csv file of dataset from The Numbers
-├── .canvas                             <- canvas compatibility tweaks
 ├── .gitignore                          <- files to ignore when committing project
-├── contributing.md                     <- document on contributing
 ├── Draft v1-7.ipynb                    <- drafts of project analysis
-├── License.md                          <- learnco educational content license
 └── Presentation.pdf                    <- PDF version of project presentation
 ├── README.md                           <- the top-level README for reviewers of this project
-├── awesome.gif                         <- initial commit
 ├── movie_data_erd.jpeg                 <- ERD of im.db database
 ├── notebook.ipynb                      <- final version of project analysis
 └── student.ipynb                       <- final project submission
