@@ -54,7 +54,7 @@ I am confident that these results would generalize beyond the data for the most 
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![graph1](./images/1.png)
 
 ## Conclusions
 
