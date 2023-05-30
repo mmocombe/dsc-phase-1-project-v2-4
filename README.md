@@ -55,7 +55,7 @@ I am confident that these results would generalize beyond the data for the most 
 ### Visual 1
 ![graph1](./images/1.png)
 
-Top grossing genres are Adventure, Action, and Comedy.  Microsoft Studios should create a film that is, at minimum, heavy on Action and Adventure.
+Top grossing genres are Adventure, Action, and Comedy.  Microsoft Studios should create a film that is heavy on Action and Adventure.
 
 ### Visual 2
 ![graph1](./images/2.png)
