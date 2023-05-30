@@ -19,19 +19,19 @@ Who are fan favorite directors that we should look to hire?
 
 These questions were considered in order to maximize studio success. Profits are one marker of a film's success, telling us whether or not the film was financially worth pursuing. Finding out whether a large budget is favorable will aid the studio into making informed decisions. Data on the highest grossing genres will help Microsoft Studios narrow down on what type of films to invest in. The release window also influences a film's success. It's key that the studio releases it at a time where the most people will go see it. Finally, it's important to choose a proven visionary for the director's chair.
 
-## Data
+## Data Understanding
 
 1. im.db.zip
 
-A zipped SQLite database containing movie data from the website Internet Movie Data Base. There is information on genre, online user votes, average user ratings, roles of people involved in the film etc... The most relevant tables are movie_basics and movie_ratings.
+A zipped SQLite database containing movie data from the website Internet Movie Data Base. There is information on genre, online user votes, average user ratings, roles of people involved in the film etc... The most relevant tables are movie_basics (146144 rows × 6 columns) and movie_ratings (73856 rows × 3 columns).
 
 2. bom.movie_gross.csv.gz
 
-A compressed CSV file containing box office data from the website Box Office Mojo. Domestic and Foreign Gross are the most relevant features.
+A compressed CSV file containing box office data from the website Box Office Mojo. Domestic and Foreign Gross are the most relevant features.  Database dimensions are 3387 rows × 5 columns.
 
 3. tn.movie_budgets.csv.gz
 
-A compressed CSV file containing box office data, release dates, and budget data from the website The Numbers.
+A compressed CSV file containing box office data, release dates, and budget data from the website The Numbers.  Database dimensions are 5782 rows × 6 columns.
 
 
 ## Methods
@@ -50,23 +50,22 @@ The top grossing genres are Adventure, Action, and Comedy with the best month fo
 
 I am confident that these results would generalize beyond the data for the most part.  The one thing I'm uncertain about is the 3rd highest grossing genre may be different with a larger dataset than the 716 popular IMDB titles used in this analysis.
 
-
-Here is an example of how to embed images from your sub-folder:
+## Recommendations:
 
 ### Visual 1
 ![graph1](./images/1.png)
 
+The top grossing genres are Adventure, Action, and Comedy.  Microsoft Studios should create a film that is, at minimum, heavy on Action and Adventure.
+
 ### Visual 2
 ![graph1](./images/2.png)
 
-### Visual 3
-![graph1](./images/3.png)
-
-### Visual 4
-![graph1](./images/4.png)
+May is the highest grossing month, followed by June and July.  The studio should aim for May as the preferred release month.
 
 ### Visual 5
 ![graph1](./images/5.png)
+
+Christopher Nolan's films have nearly 5 Million votes on IMDB.  He is a popular, talented director that Microsoft Studios should look to hire.
 
 ## Conclusions
 
@@ -96,7 +95,7 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 │   ├── bom.movie_gross.csv.gz          <- .csv file of Box Office Mojo dataset
 │   ├── im.db.zip                       <- .zip file of IMDB data in SQLite
 │   ├── rt.movie_info.tsv.gz            <- .tsv file of movie info from Rottentomatoes
-│   ├──  rt.reviews.tsv.gz               <- .tsv file of reviews from Rottentomatoes
+│   ├──  rt.reviews.tsv.gz              <- .tsv file of reviews from Rottentomatoes
 │   ├── tmdb.movies.csv.gz              <- .csv file of dataset from The Movie Database
 │   └── tn.movie_budgets.csv.gz         <- .csv file of dataset from The Numbers
 ├── .gitignore                          <- files to ignore when committing project
