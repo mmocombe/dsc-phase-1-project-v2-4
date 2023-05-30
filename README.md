@@ -84,6 +84,8 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 
 
 ``````
+├── drafts
+│   ├── Draft v1-7.ipynb                <- drafts of project analysis
 ├── images
 │   ├── 1.png                           <- image of top grossing genres
 │   ├── 2.png                           <- image of avg gross per month
@@ -98,8 +100,7 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 │   ├── tmdb.movies.csv.gz              <- .csv file of dataset from The Movie Database
 │   └── tn.movie_budgets.csv.gz         <- .csv file of dataset from The Numbers
 ├── .gitignore                          <- files to ignore when committing project
-├── Draft v1-7.ipynb                    <- drafts of project analysis
-└── Presentation.pdf                    <- PDF version of project presentation
+├── Presentation.pdf                    <- PDF version of project presentation
 ├── README.md                           <- the top-level README for reviewers of this project
 ├── movie_data_erd.jpeg                 <- ERD of im.db database
 ├── notebook.ipynb                      <- final version of project analysis
