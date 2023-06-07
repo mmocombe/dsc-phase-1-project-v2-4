@@ -44,7 +44,7 @@ Exploratory Data Analysis: Looking at the data in-depth, finding useful patterns
 
 The top grossing genres are Adventure, Action, and Comedy with the best month for releasing a movie being May.  There is a strong correlation between budget and profits.  Christopher Nolan is a well rounded, popular director that should be sought after.
 
-I am confident that these results would generalize beyond the data for the most part.  The one thing I'm uncertain about is the 3rd highest grossing genre may be different with a larger dataset than the 716 popular IMDB titles used in this analysis.
+I am confident that these results would generalize beyond the data for the most part.  The one thing I'm uncertain about is the 3rd highest grossing genre may be different with a larger dataset than the 750 popular IMDB titles used in this analysis.
 
 ## Recommendations:
 
