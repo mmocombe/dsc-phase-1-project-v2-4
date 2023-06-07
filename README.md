@@ -59,7 +59,7 @@ Top grossing genres are Adventure, Action, and Comedy.  Microsoft Studios should
 May is the highest grossing month, followed by June and July.  The studio should aim for May as the preferred release month.
 
 ### Visual 3
-![graph1](./images/5.png)
+![graph1](./images/3.png)
 
 Christopher Nolan's films have nearly 5 Million votes on IMDB.  He is a popular, talented director that Microsoft Studios should look to hire.
 
