@@ -23,13 +23,9 @@ These questions were considered in order to maximize studio success. Profits are
 
 1. im.db.zip
 
-A zipped SQLite database containing movie data from the website Internet Movie Data Base. There is information on genre, online user votes, average user ratings, roles of people involved in the film etc... The most relevant tables are movie_basics (146144 rows × 6 columns) and movie_ratings (73856 rows × 3 columns).
+A zipped SQLite database containing movie data from the website Internet Movie Data Base. There is information on genre, online user votes, average user ratings, roles of people involved in the film etc... The most relevant tables are movie_basics (146144 rows × 6 columns), movie_ratings (73856 rows × 3 columns), and persons (606648 rows × 5 columns).
 
-2. bom.movie_gross.csv.gz
-
-A compressed CSV file containing box office data from the website Box Office Mojo. Domestic and Foreign Gross are the most relevant features.  Database dimensions are 3387 rows × 5 columns.
-
-3. tn.movie_budgets.csv.gz
+2. tn.movie_budgets.csv.gz
 
 A compressed CSV file containing box office data, release dates, and budget data from the website The Numbers.  Database dimensions are 5782 rows × 6 columns.
 
