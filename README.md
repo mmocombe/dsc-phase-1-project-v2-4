@@ -64,10 +64,18 @@ May is the highest grossing month, followed by June and July.  The studio should
 Christopher Nolan's films have nearly 5 Million votes on IMDB.  He is a popular, talented director that Microsoft Studios should look to hire.
 
 ## Conclusions
+  
+  I recommend that Microsoft Studios:
+  - collaborate with Christopher Nolan 
+  - release a big budget film that is heavy on Action & Adventure 
+  - aim for a May release 
+  
+Still, there are some reasons that this recommendation may not fully solve the business problem:
 
-I recommend that Microsoft Studios collaborate with Christopher Nolan and release a big budget film that is, at minumum, heavy on action & adventure. The film should aim for a May release so that it can benefit from the summer box office boom.
-
-Still, there are some reasons that this recommendation may not fully solve the business problem. Depending on what competing studios are doing, the release window may be overcrowded by other films. The analysis also doesn't make predictions farther out into the future. Older films will probably have less online engagement on IMDB compared to modern ones. Further, having additional data available would aid Microsoft into making better informed decisions. It would be helpful to have the following data in the future: movie streaming numbers, digital purchase and rental sales, VHS and DVD sales, and data during the pandemic and the post-pandemic recovery period.
+- Release window may be overcrowded by other films.  
+- Analysis doesn't make predictions far out into the future.  
+- Older films will have less online engagement on IMDB.  
+- It would be helpful to additional data: movie streaming numbers, digital purchase and rental sales, VHS and DVD sales, and data during the pandemic and the post-pandemic recovery period.   
 
 ## For More Information
 
