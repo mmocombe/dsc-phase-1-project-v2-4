@@ -79,7 +79,7 @@ Still, there are some reasons that this recommendation may not fully solve the b
 
 ## For More Information
 
-Please review my full analysis in [Jupyter Notebook](./notebook.ipynb) or my [presentation](./Presentation.pdf).
+Please review my full analysis in [Jupyter Notebook](./notebook.ipynb) or my [presentation](./presentation.pdf).
 
 For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmail.com**
 
