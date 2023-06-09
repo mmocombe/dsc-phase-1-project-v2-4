@@ -105,7 +105,6 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 ├── .gitignore                          <- files to ignore when committing project
 ├── Presentation.pdf                    <- PDF version of project presentation
 ├── README.md                           <- the top-level README for reviewers of this project
-├── movie_data_erd.jpeg                 <- ERD of im.db database
 ├── notebook.ipynb                      <- final version of project analysis
 └── student.ipynb                       <- final project submission
 ``````
