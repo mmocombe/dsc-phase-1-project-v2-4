@@ -99,7 +99,7 @@ For any additional questions, please contact **Mario Mocombe, mario.mocombe@gmai
 │   ├── bom.movie_gross.csv.gz          <- .csv file of Box Office Mojo dataset
 │   ├── im.db.zip                       <- .zip file of IMDB data in SQLite
 │   ├── rt.movie_info.tsv.gz            <- .tsv file of movie info from Rottentomatoes
-│   ├──  rt.reviews.tsv.gz              <- .tsv file of reviews from Rottentomatoes
+│   ├── rt.reviews.tsv.gz              <- .tsv file of reviews from Rottentomatoes
 │   ├── tmdb.movies.csv.gz              <- .csv file of dataset from The Movie Database
 │   └── tn.movie_budgets.csv.gz         <- .csv file of dataset from The Numbers
 ├── .gitignore                          <- files to ignore when committing project
